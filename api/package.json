@@ -1,0 +1,14 @@
+{
+  "name": "GaultMillau",
+  "description": "GaultMillau Api Client",
+  "author": "Adrien Prevost",
+  "contributors": [{
+    "name": "Yann Guillon"
+  }],
+  "dependencies": {
+    "gulp": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*"
+  }
+}
